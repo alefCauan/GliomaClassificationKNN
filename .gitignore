@@ -1,2 +1,3 @@
 .venv/
-diabetes_health_indicators.csv
+diabetes_health_*
+glioma+*
