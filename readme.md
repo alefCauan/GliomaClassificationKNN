@@ -58,3 +58,10 @@ pip install -r requirements.txt
   - Matriz de confusão (Val e Test)
   - Métricas: Acurácia, Precisão, Recall, F1-Score
   - Curva ROC e AUC (Val e Test)
+
+# Sugestões de melhorias
+
+- Experimentar outros algoritmos de classificação (SVM, Random Forest, etc.).
+- Implementar validação cruzada para melhor avaliação do modelo.
+- Realizar tuning de hiperparâmetros com GridSearchCV ou RandomizedSearchCV.
+- Analisar importância das features e realizar seleção de features.
